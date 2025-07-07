@@ -1,0 +1,460 @@
+RestaurantID,RestaurantName,CountryCode,City,Address,Cuisines,Currency,Has_Table_booking,Has_Online_delivery,Is_delivering_now,Switch_to_order_menu,Price_range,Votes,Average_Cost_for_two,Rating
+6317637,Le Petit Souffle,162,Makati City,Third Floor| Century City Mall| Kalayaan Avenue| Poblacion| Makati City,French| Japanese| Desserts,Botswana Pula(P),Yes,No,No,No,3,314,1100,4.8
+6304287,Izakaya Kikufuji,162,Makati City,Little Tokyo| 2277 Chino Roces Avenue| Legaspi Village| Makati City,Japanese,Botswana Pula(P),Yes,No,No,No,3,591,1200,4.5
+6300002,Heat - Edsa Shangri-La,162,Mandaluyong City,Edsa Shangri-La| 1 Garden Way| Ortigas| Mandaluyong City,Seafood| Asian| Filipino| Indian,Botswana Pula(P),Yes,No,No,No,4,270,4000,4.4
+6318506,Ooma,162,Mandaluyong City,Third Floor| Mega Fashion Hall| SM Megamall| Ortigas| Mandaluyong City,Japanese| Sushi,Botswana Pula(P),No,No,No,No,4,365,1500,4.9
+6314302,Sambo Kojin,162,Mandaluyong City,Third Floor| Mega Atrium| SM Megamall| Ortigas| Mandaluyong City,Japanese| Korean,Botswana Pula(P),Yes,No,No,No,4,229,1500,4.8
+18189371,Din Tai Fung,162,Mandaluyong City,Ground Floor| Mega Fashion Hall| SM Megamall| Ortigas| Mandaluyong City,Chinese,Botswana Pula(P),No,No,No,No,3,336,1000,4.4
+6300781,Buffet 101,162,Pasay City,Building K| SM By The Bay| Sunset Boulevard| Mall of Asia Complex (MOA)| Pasay City,Asian| European,Botswana Pula(P),Yes,No,No,No,4,520,2000,4
+6301290,Vikings,162,Pasay City,Building B| By The Bay| Seaside Boulevard| Mall of Asia Complex (MOA)| Pasay City,Seafood| Filipino| Asian| European,Botswana Pula(P),Yes,No,No,No,4,677,2000,4.2
+6300010,Spiral - Sofitel Philippine Plaza Manila,162,Pasay City,Plaza Level| Sofitel Philippine Plaza Manila| CCP Complex| Pasay City,European| Asian| Indian,Botswana Pula(P),Yes,No,No,No,4,621,6000,4.9
+6314987,Locavore,162,Pasig City,Brixton Technology Center| 10 Brixton Street| Kapitolyo| Pasig City,Filipino,Botswana Pula(P),Yes,No,No,No,3,532,1100,4.8
+6309903,Silantro Fil-Mex,162,Pasig City,75 East Capitol Drive| Kapitolyo| Pasig City,Filipino| Mexican,Botswana Pula(P),No,No,No,No,3,1070,800,4.9
+6309455,Mad Mark's Creamery & Good Eats,162,Pasig City,23 East Capitol Drive| Kapitolyo| Pasig City,American| Ice Cream| Desserts,Botswana Pula(P),Yes,No,No,No,3,488,900,4.2
+6318433,Silantro Fil-Mex,162,Quezon City,Second Floor| UP Town Center| Katipunan Avenue| Diliman| Quezon City,Filipino| Mexican,Botswana Pula(P),No,No,No,No,3,294,800,4.8
+6310470,Guevarra's,162,San Juan City,387 P. Guevarra Corner Argonne Street| Addition Hills| San Juan City,Filipino,Botswana Pula(P),Yes,No,No,No,3,458,1000,4.2
+6314605,Sodam Korean Restaurant,162,San Juan City,17 J. Abad Santos Drive| Little Baguio| San Juan City,Korean,Botswana Pula(P),No,No,No,No,3,223,700,4.3
+18185059,Cafe Arabelle,162,Santa Rosa,Ayala Mall| Solenad| Nuvali| Santa Rosa - Tagaytay Road| Don Jose| Santa Rosa,Cafe| American| Italian| Filipino,Botswana Pula(P),No,No,No,No,3,29,800,3.6
+18182702,Nonna's Pasta & Pizzeria,162,Santa Rosa,Ground Floor| Building G| Solenad 3| Nuvali| Don Jose| Santa Rosa,Italian| Pizza,Botswana Pula(P),No,No,No,No,3,72,850,4
+6318213,Balay Dako,162,Tagaytay City,Aguinaldo Highway| Tagaytay City,Filipino,Botswana Pula(P),Yes,No,No,No,3,211,1200,4.5
+18255654,Hobing Korean Dessert Cafe,162,Taguig City,Third Floor| BGC Stopover Pavillion| Rizal Drive Corner 31st Street| Bonifacio Global City| Taguig City,Cafe| Korean| Desserts,Botswana Pula(P),No,No,No,No,2,118,600,4.5
+6308205,Wildflour Cafe + Bakery,162,Taguig City,Ground Floor| Netlima Building| 4th Avenue Corner 26th Street| Bonifacio Global City| Taguig City,Cafe| Bakery| American| Italian,Botswana Pula(P),Yes,No,No,No,4,392,1500,4.4
+6315438,NIU by Vikings,162,Taguig City,Sixth Floor| SM Aura Premier| C5 Road Corner 26th Street| Bonifacio Global City| Taguig City,Seafood| American| Mediterranean| Japanese,Botswana Pula(P),Yes,No,No,No,4,535,3000,4.7
+6310406,The Food Hall by Todd English,162,Taguig City,Fifth Floor| SM Aura Premier| C5 Corner 26th Street| Bonifacio Global City| Taguig City,American| Asian| Italian| Seafood,Botswana Pula(P),Yes,No,No,No,4,618,1800,4.5
+6600681,Chez Michou,30,Bras?lia,SCLN| 208| Bloco A| Loja 30| Asa Norte| Bras?lia,Fast Food| French,Brazilian Real(R$),No,No,No,No,2,6,55,3
+6601005,Caf? Daniel Briand,30,Bras?lia,SCLN 104| Bloco A| Loja 26| Asa Norte| Bras?lia,Cafe,Brazilian Real(R$),No,No,No,No,1,9,30,3.8
+6600292,Casa do Biscoito Mineiro,30,Bras?lia,SCLN 210| Bloco D| Loja 36/48| Asa Norte| Bras?lia,Bakery,Brazilian Real(R$),No,No,No,No,2,11,45,3.7
+6600441,Maori,30,Bras?lia,CLN 110| Bloco D| Loja 28| Asa Norte| Bras?lia,Brazilian,Brazilian Real(R$),No,No,No,No,3,11,60,3.8
+6600970,Pizza ? Bessa,30,Bras?lia,SCS 214| Bloco C| Loja 40| Asa Sul| Bras?lia,Pizza,Brazilian Real(R$),No,No,No,No,2,11,50,3.2
+6600379,Sushi Loko,30,Bras?lia,SCS 213| Bloco C| Loja 35| Asa Sul| Bras?lia,Japanese,Brazilian Real(R$),No,No,No,No,3,10,80,3.1
+6600214,Beirute,30,Bras?lia,CLS 109| Bloco A| Loja 2/6| Asa Sul| Bras?lia,Arabian,Brazilian Real(R$),No,No,No,No,3,8,90,3.7
+6601218,New Koto,30,Bras?lia,SCS 212| Bloco B| Loja 26| Asa Sul| Bras?lia,Japanese,Brazilian Real(R$),No,No,No,No,4,5,200,3.7
+6600060,Sandubas Caf?,30,Bras?lia,Edif?cio Jos? Severo| SCS 6| Bloco A| Loja 99| Asa Sul| Bras?lia,Brazilian| Cafe,Brazilian Real(R$),No,No,No,No,1,2,30,1
+6600083,Villa Tevere,30,Bras?lia,CLS 115| Bloco A| Loja 2| Asa Sul| Bras?lia,Italian,Brazilian Real(R$),No,No,No,No,4,12,150,4.1
+6601515,Rovereto,30,Bras?lia,Rua 13 Norte| Lote 4| ?guas Claras| Bras?lia,Pizza,Brazilian Real(R$),No,No,No,No,4,9,100,3.1
+6601361,Buena Carne,30,Bras?lia,Avenida Arauc?rias| 1325| Loja 19| ?guas Claras| Bras?lia,Bar Food| Brazilian,Brazilian Real(R$),No,No,No,No,3,9,60,3.6
+6601602,Taco Pep,30,Bras?lia,Vila Malls| Avenida das Castanheiras| Lote 1060| ?guas Claras| Bras?lia,Mexican| Grill,Brazilian Real(R$),No,No,No,No,4,29,100,4.3
+6601589,Coco Bambu,30,Bras?lia,Bras?lia Shopping - Piso 2| SCN 5| Bloco A| Asa Norte| Bras?lia,International,Brazilian Real(R$),No,No,No,No,4,17,230,4.2
+6601862,Tayp?,30,Bras?lia,Fashion Park| Shis Ql 17| Bloco G| Loja 208| Lago Sul| Bras?lia,Peruvian| Latin American,Brazilian Real(R$),No,No,No,No,4,5,100,3.6
+6601595,Outback Steakhouse,30,Bras?lia,ParkShopping - Piso 2| SAI/SO| ?rea 6580| Guar? I| Bras?lia,American| Grill,Brazilian Real(R$),No,No,No,No,4,10,150,4
+6601158,Manzu?,30,Bras?lia,Pont?o Lago Sul| SHIS 10| Lote 9| Lago Sul| Bras?lia,Seafood,Brazilian Real(R$),No,No,No,No,4,6,240,3.2
+6600427,Coco Bambu,30,Bras?lia,SCES| Trecho 2| Conjunto 13/36| Setor de Clubes Esportivos Sul| Bras?lia,International,Brazilian Real(R$),No,No,No,No,4,30,230,4.9
+6600116,Gero,30,Bras?lia,Shopping Iguatemi - piso 1| SHIN CA 4| Lote A| Lago Norte| Bras?lia,Italian,Brazilian Real(R$),No,No,No,No,4,8,350,3.3
+6601457,Brazilian American Burgers,30,Bras?lia,CLSN 301| Bloco C| Loja 86| Sudoeste| Bras?lia,American| Burger,Brazilian Real(R$),No,No,No,No,2,9,50,3.6
+7303219,Pesqueiro Eco Gourmet,30,Rio de Janeiro,Praia da Barra da Tijuca| Avenida L?cio Costa| Ilha 25| Barra da Tijuca| Rio de Janeiro,Seafood| Bar Food| Brazilian,Brazilian Real(R$),No,No,No,No,4,7,140,4
+7304307,Confeitaria Colombo,30,Rio de Janeiro,Rua Gon?alves Dias| 32| Centro| Rio de Janeiro,Desserts| Cafe,Brazilian Real(R$),No,No,No,No,4,29,100,4.8
+7301215,Bibi,30,Rio de Janeiro,Rua Santa Clara| 36| Copabana| Rio de Janeiro,Juices| Healthy Food,Brazilian Real(R$),No,No,No,No,3,24,60,4.7
+7300596,Cervantes,30,Rio de Janeiro,Avenida Prado Junior| 335 B| Copacabana| Rio de Janeiro,Beverages| Bar Food| Fast Food,Brazilian Real(R$),No,No,No,No,3,29,90,4.5
+7300612,Amir,30,Rio de Janeiro,Rua Ronald de Carvalho| 55| Copacabana| Rio de Janeiro,Lebanese,Brazilian Real(R$),No,No,No,No,4,11,170,4.2
+7300704,TT Burger,30,Rio de Janeiro,Galeria River| Rua Francisco Otaviano| 67| Copacabana| Rio de Janeiro,Burger,Brazilian Real(R$),No,No,No,No,3,19,60,4.8
+7300955,Braseiro da G?vea,30,Rio de Janeiro,Pra?a Santos Dumont| 116| G?vea| Rio de Janeiro,Brazilian| Bar Food,Brazilian Real(R$),No,No,No,No,4,40,100,4.9
+7300521,Balada Mix,30,Rio de Janeiro,Rua An?bal de Mendon?a| 37| Ipanema| Rio de Janeiro,Brazilian| Healthy Food| Juices| Pizza,Brazilian Real(R$),No,No,No,No,3,21,90,4.6
+7300515,Garota de Ipanema,30,Rio de Janeiro,Rua Vinicius de Moraes| 49| Ipanema| Rio de Janeiro,Brazilian| Bar Food,Brazilian Real(R$),No,No,No,No,4,49,120,4.9
+7300483,Zaz? Bistr? Tropical,30,Rio de Janeiro,Rua Joana Ang?lica| 40| Ipanema| Rio de Janeiro,Brazilian,Brazilian Real(R$),No,No,No,No,4,21,170,4.6
+7301064,Fil? de Ouro,30,Rio de Janeiro,Rua Jardim Bot?nico| 731| Jardim Bot?nico| Lagoa| Rio de Janeiro,Brazilian,Brazilian Real(R$),No,No,No,No,3,14,90,4.3
+7304312,D.O.C Ristorante,30,Rio de Janeiro,Le Monde| Bloco 3| Lojas A/B| Avenida das Am?ricas| 3500| Barra da Tijuca| Rio de Janeiro,Italian,Brazilian Real(R$),No,No,No,No,4,5,150,4
+7300004,Sushi Leblon,30,Rio de Janeiro,Rua Dias Ferreira| 256| Leblon| Rio de Janeiro,Japanese,Brazilian Real(R$),No,No,No,No,4,25,250,4.6
+7300868,Talho Capixaba,30,Rio de Janeiro,Avenida Ataulfo de Paiva| 1022| Lojas A e B| Leblon| Rio de Janeiro,Bakery| Sandwich| Brazilian,Brazilian Real(R$),No,No,No,No,4,13,120,4.4
+7302637,Leme Light,30,Rio de Janeiro,Rua Gustavo Sampaio| 798| Leme| Rio de Janeiro,Brazilian,Brazilian Real(R$),No,No,No,No,2,7,40,4.2
+7302140,Shirley,30,Rio de Janeiro,Rua Gustavo Sampaio| 610| Leme| Rio de Janeiro,Brazilian| Seafood,Brazilian Real(R$),No,No,No,No,4,8,250,4.2
+7305048,Quiosque Chopp Brahma,30,Rio de Janeiro,Madureira Shopping - Loja 289/290| Piso 2| Estrada do Portela| 222| Madureira| Rio de Janeiro| RJ,Bar Food| Brazilian,Brazilian Real(R$),No,No,No,No,3,1,70,1
+7302898,Apraz?vel,30,Rio de Janeiro,Rua Apraz?vel| 62| Santa Teresa| Rio de Janeiro,Brazilian,Brazilian Real(R$),No,No,No,No,4,44,300,4.7
+7302859,Aconchego Carioca,30,Rio de Janeiro,Rua Bar?o de Iguatemi| 379| Tijuca| Rio de Janeiro,Brazilian| Bar Food,Brazilian Real(R$),No,No,No,No,3,24,85,4.6
+7301700,Garota de Ipanema,30,Rio de Janeiro,Avenida Jo?o Alves| 56| Urca| Rio de Janeiro,Brazilian| Bar Food,Brazilian Real(R$),No,No,No,No,3,10,80,4.3
+6706313,Cantina Famiglia Mancini,30,S?o Paulo,Rua Avanhandava| 81| Bela Vista| S?o Paulo 10000,Italian| Pizza,Brazilian Real(R$),No,No,No,No,4,49,250,4.5
+6704326,Templo da Carne - Marcos Bassi,30,S?o Paulo,Rua Treze de Maio| 668| Bela Vista| S?o Paulo 01327000,Steak| BBQ,Brazilian Real(R$),No,No,No,No,4,17,250,4.4
+6711179,Gopala Hari,30,S?o Paulo,Rua Antonio Carlos| 429| Consola??o| S?o Paulo,Indian,Brazilian Real(R$),No,No,No,No,3,5,70,3.1
+6702797,Jiquitaia,30,S?o Paulo,Rua Ant?nio Carlos| 268| Consola??o| S?o Paulo,Brazilian,Brazilian Real(R$),No,No,No,No,4,15,100,4.1
+6700475,Skye - Hotel Unique,30,S?o Paulo,Hotel Unique| Avenida Brigadeiro Lu?s Ant?nio| 4700| Jardim Paulista| S?o Paulo,Beverages| International,Brazilian Real(R$),No,No,No,No,4,59,300,4.8
+6713413,Les 3 Brasseurs,30,S?o Paulo,Rua Jesu?no Arruda| 470| Itaim Bibi| S?o Paulo,French| Brazilian| Beverages,Brazilian Real(R$),No,No,No,No,4,30,120,4.6
+6714340,Red Steak & Burger,30,S?o Paulo,Rua Tabapu?| 1417| Itaim Bibi| S?o Paulo,Brazilian| Grill,Brazilian Real(R$),No,No,No,No,3,5,75,3.9
+6710645,Cantinho da Gula,30,S?o Paulo,Rua Pedroso Alvarenga| 522| Itaim Bibi| S?o Paulo| SP,Brazilian,Brazilian Real(R$),No,No,No,No,2,0,55,1
+6700402,Paris 6 Classique,30,S?o Paulo,Rua Haddock Lobo| 1240| Cerqueira C?sar| Jardim Paulista| S?o Paulo,French,Brazilian Real(R$),No,No,No,No,4,73,200,3.4
+6700846,Kawa Sushi,30,S?o Paulo,Alameda Lorena| 300| Jardim Paulista| S?o Paulo,Sushi| Japanese,Brazilian Real(R$),No,No,No,No,4,9,120,3.5
+6702159,A Figueira Rubaiyat,30,S?o Paulo,Rua Haddock Lobo| 1738| Cerqueira C?sar| Jardim Paulista| S?o Paulo 10000,BBQ| Grill| Brazilian,Brazilian Real(R$),No,No,No,No,4,39,300,4.3
+6711666,Kinoshita,30,S?o Paulo,Rua Jacques F?lix| 405| Vila Nova Concei??o| Moema| S?o Paulo,Sushi,Brazilian Real(R$),No,No,No,No,4,12,230,3.9
+6701257,Meats,30,S?o Paulo,Rua dos Pinheiros| 320| Pinheiros| S?o Paulo,Gourmet Fast Food| Burger,Brazilian Real(R$),No,No,No,No,4,68,120,4.3
+6706211,Paribar,30,S?o Paulo,Pra?a Dom Jos? Gaspar| 42| Rep?blica| S?o Paulo 10000,Brazilian| Italian,Brazilian Real(R$),No,No,No,No,4,46,150,4.3
+6705858,Terra?o It?lia,30,S?o Paulo,Edif?cio It?lia - 41? Andar| Avenida Ipiranga| 344| Rep?blica| S?o Paulo,Italian,Brazilian Real(R$),No,No,No,No,4,37,400,4.4
+6701419,Divino Fog?o,30,S?o Paulo,Shopping Metr? Santa Cruz - Piso L2| Rua Domingos de Morais| 2564| Vila Mariana| S?o Paulo,Brazilian| Mineira,Brazilian Real(R$),No,No,No,No,3,2,65,1
+6703956,Super Grill,30,S?o Paulo,Shopping Morumbi - Piso Lazer| Avenida Roque Petroni J?nior| 1089| Santo Amaro| S?o Paulo,Brazilian,Brazilian Real(R$),No,No,No,No,2,2,50,1
+6709580,Esquina Mocot?,30,S?o Paulo,Avenida Nossa Senhora do Loreto| 1104| Vila Medeiros| Vila Maria| S?o Paulo,Brazilian| North Eastern,Brazilian Real(R$),No,No,No,No,4,22,100,4.4
+6703176,Veloso,30,S?o Paulo,Rua Concei??o Veloso| 56| Vila Mariana| S?o Paulo,Brazilian| Bar Food| Beverages,Brazilian Real(R$),No,No,No,No,3,58,70,4.6
+6713772,Sainte Marie Gastronomia,30,S?o Paulo,Rua Dom Jo?o Batista da Costa| 70| Vila S?nia| S?o Paulo,Lebanese| Arabian,Brazilian Real(R$),No,No,No,No,4,11,120,4.1
+17284404,Austin's BBQ and Oyster Bar,216,Albany,2820 Meredyth Dr| Albany| GA 31707,BBQ| Burger| Seafood,Dollar($),No,No,No,No,2,35,25,3.3
+17284203,BJ's Country Buffet,216,Albany,2401 Dawson Rd| Albany| GA 31707,American| BBQ,Dollar($),No,No,No,No,1,25,10,3.3
+17284105,Cookie Shoppe,216,Albany,115 N Jackson St| Albany| GA 31701,,Dollar($),No,No,No,No,1,34,0,3.4
+17284302,El Vaquero Mexican Restaurant,216,Albany,2700 Dawson Rd| Albany| GA 31707,Mexican,Dollar($),No,No,No,No,1,45,0,3.4
+17284397,Elements Coffee Co - Northwest,216,Albany,2726 Ledo Rd Ste 10| Albany| GA 31707,Coffee and Tea| Sandwich,Dollar($),No,No,No,No,1,26,10,3.4
+17284211,Pearly's Famous Country Cookng,216,Albany,814 N Slappey Blvd| Albany| GA 31701,,Dollar($),No,No,No,No,1,36,0,3.4
+17284094,Chick-fil-A,216,Albany,2703 Dawson Rd| Albany| GA 31707,Fast Food,Dollar($),No,No,No,No,1,67,10,3.5
+17284409,Guang Zhou Chinese Restaurant,216,Albany,1214 N Westover Blvd| Albany| GA 31707,Asian| Chinese| Vegetarian,Dollar($),No,No,No,No,1,141,10,3.9
+17284139,Harvest Moon,216,Albany,2347 Dawson Road| Albany| GA 31707,Pizza| Bar Food| Sandwich,Dollar($),No,No,No,No,2,147,25,3.7
+17284403,Henry Campbell's Steakhouse,216,Albany,629 N. Westover Blvd| Albany| GA 31707,Steak| Tapas| Bar Food,Dollar($),No,No,No,No,4,51,70,3.5
+17284145,Hong Kong Cafe,216,Albany,2700 Dawson Rd| Albany| GA 31707,Chinese| Seafood| Vegetarian,Dollar($),No,No,No,No,2,88,25,3.6
+17284150,House of China Restaurant II,216,Albany,2526 Dawson Rd Ste A| Albany| GA 31707,Chinese,Dollar($),No,No,No,No,1,153,10,3.8
+17284158,Jimmie's Hot Dogs,216,Albany,204 S Jackson St| Albany| GA 31701,,Dollar($),No,No,No,No,1,160,10,3.9
+17284175,Locos Grill & Pub,216,Albany,547 N Westover Blvd| Albany| GA 31707,American| Burger| Sandwich,Dollar($),No,No,No,No,2,57,25,3.5
+17284179,Longhorn Steakhouse,216,Albany,2733 Dawson Rd| Albany| GA 31707,American| Steak,Dollar($),No,No,No,No,2,58,25,3.5
+17284197,Mikata Japanese Steakhouse,216,Albany,2610 Dawson Rd| Albany| GA 31707,Japanese| Steak| Sushi,Dollar($),No,No,No,No,3,115,40,3.6
+17284241,Shogun Japanese Steak House,216,Albany,629 N Westover Blvd| Albany| GA 31707,Japanese| Steak| Sushi,Dollar($),No,No,No,No,3,51,40,3.5
+17284390,The Catch Seafood Room & Oyster Bar,216,Albany,2332 Whispering Pines Road| Albany| GA 31707,Seafood| Tapas| Bar Food,Dollar($),No,No,No,No,3,250,40,3.8
+17284279,Villa Gargano,216,Albany,1604 N Slappey Blvd| Albany| GA 31701,Italian| Pizza,Dollar($),No,No,No,No,1,117,10,3.7
+17284364,3 Squares Diner,216,Albany,202 W Franklin St| Sylvester| GA 31791,American| Breakfast| Diner,Dollar($),No,No,No,No,1,20,10,3.4
+16611114,Whitebull Hotel,14,Armidale,117 Marsh St| Armidale| NSW,Bar Food| Steak,Dollar($),No,No,No,No,2,25,20,3.5
+17293281,Last Resort Grill,216,Athens,184 W Clayton St| Athens| GA 30601,American| Southern| Southwestern,Dollar($),No,No,No,No,3,1821,40,4.5
+17293301,Mama's Boy Restaurant,216,Athens,197 Oak St| GA 30601,Southern,Dollar($),No,No,No,No,1,849,10,4.5
+17293409,Sr. Sol 1,216,Athens,175 Tallassee Rd| Athens| GA 30606,Mexican,Dollar($),No,No,No,No,1,917,10,4.6
+17293163,Choo Choo Eastside,216,Athens,1055 Gaines School Rd Ste 100| Athens| GA 30605,Japanese| Korean,Dollar($),No,No,No,No,1,439,10,3.9
+17293228,The Grill,216,Athens,171 College Ave| Athens| GA 30601,Breakfast| Burger| Sandwich,Dollar($),No,No,No,No,1,289,10,3.7
+17293880,Big City Bread Cafe,216,Athens,393 N Finley St| Athens| GA 30601,Breakfast| Sandwich,Dollar($),No,No,No,No,1,558,10,4.3
+17293169,Clocked,216,Athens,259 W Washington St| Athens| GA 30601,American| Burger| Sandwich,Dollar($),No,No,No,No,1,613,10,4.2
+17293186,DePalma's Italian Cafe - Downtown,216,Athens,401 E Broad St| Athens| GA 30601,American| Italian| Pizza,Dollar($),No,No,No,No,2,353,25,4
+17294642,Sconyers Bar B Que,216,Augusta,2250 Sconyers Way| Augusta| GA 30906,BBQ,Dollar($),No,No,No,No,2,304,25,3.5
+17295109,Frog Hollow Tavern,216,Augusta,1282 broad street| Augusta| GA 30901,American,Dollar($),No,No,No,No,3,368,40,4.3
+17294441,Giuseppe's Pizza & Italian Specialities,216,Augusta,3690 Wheeler Rd| Augusta| GA 30909,Desserts| Italian| Pizza,Dollar($),No,No,No,No,2,430,25,4.1
+17294552,Mellow Mushroom,216,Augusta,1167 Broad St| Augusta| GA 30901,Italian| Pizza| Sandwich,Dollar($),No,No,No,No,2,433,25,4.4
+17294565,Nacho Mamas Burritos,216,Augusta,976 Broad St| Augusta| GA 30901,Mexican,Dollar($),No,No,No,No,1,380,10,4
+17294623,Rhinehart's Oyster Bar,216,Augusta,3051 Washington Rd| Augusta| GA 30907,Bar Food| Sandwich| Seafood,Dollar($),No,No,No,No,2,456,25,4
+17294712,Takosushi,216,Augusta,437 Highland Ave| Augusta| GA 30909,Mexican| Southwestern| Sushi,Dollar($),No,No,No,No,3,647,40,4.2
+17295033,The Chop House,216,Augusta,Augusta Mall| Augusta| GA 30909,Steak,Dollar($),No,No,No,No,3,360,40,4
+17295069,The Taj of India,216,Augusta,502 Furys Ferry Rd| Augusta| GA 30907,Indian,Dollar($),No,No,No,No,2,227,25,4
+17294261,Augsburg Haus,216,Augusta,4460 Washington Road| Evans| GA 30809,German,Dollar($),No,No,No,No,2,290,25,3.9
+17295115,Pho Bac,216,Augusta,4300 Towne Centre| Evans| GA 30809,Vietnamese,Dollar($),No,No,No,No,1,270,10,4.1
+17294836,Rhinehart's Oyster Bar,216,Augusta,303 North Bel Air Rd| Evans| GA 30809,Burger| Seafood,Dollar($),No,No,No,No,2,326,25,4
+17294850,Thai Kitchen,216,Augusta,4357 Washington Road| Evans| GA 30809,Thai,Dollar($),No,No,No,No,3,317,35,4.3
+17294883,El Kiosco Mexican Restaurant,216,Augusta,5174 Wrightsboro Rd| Grovetown| GA 30813,Mexican,Dollar($),No,No,No,No,1,300,10,4.2
+16608864,Taste of Balingup,14,Balingup,63 South Western Hwy| Balingup| WA,Modern Australian,Dollar($),No,No,No,No,2,21,20,3.2
+16604911,Bridge Road Brewers,14,Beechworth,Old Coach House 50 Ford St| Beechworth| Beechworth| VIC,Pizza| Bar Food,Dollar($),No,No,No,No,2,237,20,4.6
+17303465,Bardenay,216,Boise,610 W Grove St| Boise| ID 83702,American| Bar Food,Dollar($),No,No,No,No,2,879,25,4.5
+17303642,Flatbread Neapolitan Pizzeria,216,Boise,800 W Main Suite 230| Boise| ID 83702,Italian| Pizza,Dollar($),No,No,No,No,2,615,25,4.6
+17303670,Goldy's Breakfast Bistro,216,Boise,108 S Capitol Blvd| Boise| ID 83702,Breakfast| Sandwich,Dollar($),No,No,No,No,2,879,25,4.5
+17303545,Chandlers Steakhouse,216,Boise,981 W Grove St| Boise| ID 83702,American| Seafood| Steak,Dollar($),No,No,No,No,4,379,70,3.9
+17303655,Bar Gernika Basque Pub & Eatery,216,Boise,202 S Capitol Blvd| Boise| ID 83702,European| Spanish,Dollar($),No,No,No,No,1,303,10,4.3
+17304691,Barbacoa Restaurant,216,Boise,276 Bobwhite Ct| Boise| ID 83706,Latin American| Steak,Dollar($),No,No,No,No,4,538,70,4.1
+17303478,Big Jud's,216,Boise,1289 Protest Rd| Boise| ID 83706,American| Burger| Sandwich,Dollar($),No,No,No,No,1,334,10,4.2
+17303480,Bittercreek Ale House,216,Boise,246 N 8th St| Boise| ID 83702,American| Bar Food,Dollar($),No,No,No,No,2,555,25,4.3
+17304733,Boise Fry Company,216,Boise,204 N Capitol Blvd| Boise| ID 83702,American| Burger,Dollar($),No,No,No,No,1,823,10,4.4
+17303646,Flying Pie Pizzaria,216,Boise,6508 W Fairview Ave| Boise| ID 83704,Pizza,Dollar($),No,No,No,No,2,550,25,4.1
+17304929,Fork,216,Boise,199 N 8th St| Boise| ID 83702,American| Burger,Dollar($),No,No,No,No,2,650,25,4.4
+17303684,Guido's Original New York Style Pizza,216,Boise,235 N 5th St| Boise| ID 83702,Pizza,Dollar($),No,No,No,No,1,410,10,4.3
+17303772,Los Beto's,216,Boise,5220 W Fairview Ave| Boise| ID 83706,Mexican,Dollar($),No,No,No,No,1,660,10,4.4
+17305123,Lucianos Italian Restaurant,216,Boise,11 N Orchard St| Boise| ID 83706,Italian| Seafood| Vegetarian,Dollar($),No,No,No,No,2,360,25,4.4
+17303787,Mai Thai Restaurant,216,Boise,750 W Idaho St| Boise| ID 83702,Sushi| Thai,Dollar($),No,No,No,No,3,340,40,4
+17303990,Shige Japanese Cuisine,216,Boise,100 N 8th St| Boise| ID 83702,Japanese| Sushi| Teriyaki,Dollar($),No,No,No,No,2,393,25,4.1
+17304741,The Egg Factory,216,Boise,8061 W Fairview Ave| Boise| ID 83704,Breakfast,Dollar($),No,No,No,No,1,422,10,4.3
+17304726,Tucanos,216,Boise,1388 S Entertainment Ave| Boise| ID 83709,Brazilian,Dollar($),No,No,No,No,3,435,40,4
+17304486,Texas Roadhouse,216,Boise,3801 E Fairview Avenue| Meridian| Boise| ID 83642,American| BBQ| Steak,Dollar($),No,No,No,No,2,369,25,4
+17304533,Brick 29,216,Boise,320 11th Avenue S| Nampa| ID 83651,American,Dollar($),No,No,No,No,3,487,40,4.4
+17316233,Winifreds,216,Cedar Rapids/Iowa City,3847 1st Ave SE| Cedar Rapids| IA 52402,American| Mediterranean| Seafood,Dollar($),No,No,No,No,3,98,40,3.7
+17315883,Biaggi's Ristorante Italiano,216,Cedar Rapids/Iowa City,320 Collins Rd NE| Cedar Rapids| IA 52402,Italian| Pizza,Dollar($),No,No,No,No,3,365,40,4.1
+17315995,El Super Burrito,216,Cedar Rapids/Iowa City,3300 Johnson Ave NW| Cedar Rapids| IA 52405,Mexican,Dollar($),No,No,No,No,1,190,10,4.1
+17316018,Granite City Food & Brewery,216,Cedar Rapids/Iowa City,4755 1st Ave SE| Cedar Rapids| IA 52402,American| Breakfast| Burger,Dollar($),No,No,No,No,3,429,40,4.1
+17316038,Irish Democrat,216,Cedar Rapids/Iowa City,3207 1st Ave SE| Cedar Rapids| IA 52402,American| BBQ| Burger,Dollar($),No,No,No,No,2,430,25,4.4
+17316771,Taste of India,216,Cedar Rapids/Iowa City,1060 Old Marion Rd NE| Cedar Rapids| IA 52402,Indian,Dollar($),No,No,No,No,2,186,25,4.2
+17316201,Thai Moon Restaurant,216,Cedar Rapids/Iowa City,4362 16th Ave SW| Cedar Rapids| IA 52404,Chinese| Sushi| Thai,Dollar($),No,No,No,No,1,220,10,4.2
+17316208,Ting's Red Lantern,216,Cedar Rapids/Iowa City,540 Boyson Rd NE| Cedar Rapids| IA 52402,Chinese,Dollar($),No,No,No,No,1,347,10,4.2
+17316389,Monica's,216,Cedar Rapids/Iowa City,303 2nd Street| Coralville| IA 52241,American| Italian| Pizza,Dollar($),No,No,No,No,2,161,25,3.8
+17316278,Exotic India,216,Cedar Rapids/Iowa City,102 2nd Ave| Coralville| IA 52241,Indian,Dollar($),No,No,No,No,2,160,25,4.1
+17316744,Shorts Burger and Shine,216,Cedar Rapids/Iowa City,18 S Clinton St| Iowa City| IA 52240,Burger,Dollar($),No,No,No,No,1,820,10,4.9
+17316751,The Hamburg Inn No. 2 Inc.,216,Cedar Rapids/Iowa City,214 N Linn St| Iowa City| IA 52245,American| Breakfast| Burger,Dollar($),No,No,No,No,1,488,10,4.5
+17316766,Bluebird Diner,216,Cedar Rapids/Iowa City,330 E Market St| Iowa City| IA 52245,Breakfast| Diner,Dollar($),No,No,No,No,2,253,25,3.6
+17316743,Graze,216,Cedar Rapids/Iowa City,115 East College St| Iowa City| IA 52240,American| International| Sushi,Dollar($),No,No,No,No,3,220,40,3.8
+17316374,A & A Pagliai's Pizza,216,Cedar Rapids/Iowa City,302 E Bloomington St| Iowa City| IA 52245,Pizza,Dollar($),No,No,No,No,2,485,25,4.3
+17316381,Atlas World Grill,216,Cedar Rapids/Iowa City,127 Iowa Ave| Iowa City| IA 52240,International,Dollar($),No,No,No,No,3,428,40,4.3
+17316802,BlackStone,216,Cedar Rapids/Iowa City,503 Westbury Dr Ste 1| Iowa City| IA 52245,American| Breakfast,Dollar($),No,No,No,No,2,294,25,4.1
+17316416,Devotay,216,Cedar Rapids/Iowa City,117 N Linn St| Iowa City| IA 52245,Mediterranean| Tapas| Vegetarian,Dollar($),No,No,No,No,3,380,40,4
+17316449,Jimmy Jack's Rib Shack,216,Cedar Rapids/Iowa City,1940 Lower Muscatine Rd| Iowa City| IA 52240,BBQ,Dollar($),No,No,No,No,2,259,25,4.2
+17316603,Zoeys Pizzeria,216,Cedar Rapids/Iowa City,690 10th St| Marion| IA 52302,Pizza| Sandwich,Dollar($),No,No,No,No,2,433,25,4.7
+16659169,Tokyo Sushi,37,Chatham-Kent,150 Richmond St| Chatham-Kent| ON N7M2V2,Japanese| Sushi,Dollar($),No,No,No,No,2,176,25,3.7
+17558684,Berry Patch Restaurant,216,Clatskanie,49289 Us-30| Westport| OR 97016,American| Breakfast| Desserts,Dollar($),No,No,No,No,1,96,10,4.3
+18366580,Sakura Sushi & Grill,216,Cochrane,130 Quarry Street| Unit 20| Cochrane| AB T4C 0W5,Asian| Japanese,Dollar($),No,No,No,No,2,6,25,3.1
+17330755,Uptown Vietnam cuisine,216,Columbus,1250 Broadway| Columbus| GA 31901,Asian| Vietnamese,Dollar($),No,No,No,No,1,33,10,3.3
+17330611,Cafe Le Rue @ The Landings,216,Columbus,2523 Airport Thruway| Columbus| GA 31904,American| Seafood| Cajun,Dollar($),No,No,No,No,2,489,25,4.6
+17330609,Mark's City Grille,216,Columbus,7160 moon road| Columbus| GA 31909,American,Dollar($),No,No,No,No,2,345,25,4.5
+17330024,B Merrell's,216,Columbus,7600 Veterans Pkwy| Columbus| GA 31909,Burger| Bar Food| Southern,Dollar($),No,No,No,No,2,149,25,3.8
+17330074,Cannon Brewpub,216,Columbus,1041 Broadway| Columbus| GA 31901,Pizza| Bar Food,Dollar($),No,No,No,No,2,330,25,3.9
+17330185,Fuji Japanese Steak House,216,Columbus,6499 Veterans Pkwy| Columbus| GA 31909,Japanese| Steak,Dollar($),No,No,No,No,3,247,40,3.9
+17330397,Ruth Ann's Family Restaurant,216,Columbus,941 Veterans Parkway| Columbus| GA 31901,Breakfast| Diner| Southern,Dollar($),No,No,No,No,1,123,10,3.7
+17330735,Samurai Japanese Cuisine & Sushi Bar,216,Columbus,1009 Broadway| Columbus| GA 31901,Japanese| Steak| Sushi,Dollar($),No,No,No,No,3,109,40,3.6
+17697332,Tokyo Japanese Steak House,216,Waterloo,1931 Sears Street| Waterloo| IA 50702,Japanese| Steak| Sushi,Dollar($),No,No,No,No,2,156,25,3.9
+17694056,Theo Yianni's Authentic Greek Restaurant,216,Weirton,322 American Way| Weirton| WV 26062,Burger| Greek| Sandwich,Dollar($),No,No,No,No,2,156,25,3.9
+17559793,Fishpatrick's Crabby Cafe,216,Winchester Bay,196 Bayfront Loop| Winchester Bay| OR 97467,Burger| Seafood| Steak,Dollar($),No,No,No,No,2,16,25,3.2
+16668008,Arigato Sushi,37,Yorkton,14 Second Ave North| Yorkton| SK S3N 1G1,Asian,Dollar($),No,No,No,No,2,26,25,3.3
+18212135,Denny's,214,Abu Dhabi,Abu Dhabi Mall| Tourist Club Area (Al Zahiyah)| Abu Dhabi,American,Emirati Diram(AED),No,No,No,No,4,207,190,4.6
+5704255,Famous Dave's Barbecue,214,Abu Dhabi,Near The One| Level 3| Abu Dhabi Mall| Tourist Club Area (Al Zahiyah)| Abu Dhabi,American,Emirati Diram(AED),No,Yes,No,No,4,376,260,4.6
+5701978,Pizza Di Rocco,214,Abu Dhabi,Near Corner of Salam and Al Falah Street (9th Street)| Salam Street| Al Dhafrah| Abu Dhabi,Italian| Pizza,Emirati Diram(AED),Yes,Yes,No,No,3,471,150,4.4
+5701729,Sofra Istanbul,214,Abu Dhabi,Next to ADNOC Petrol Station| Muroor Road| Al Dhafrah| Abu Dhabi,Turkish| Arabian| Middle Eastern,Emirati Diram(AED),No,No,No,No,2,224,70,4.3
+5704168,Salt,214,Abu Dhabi,Inside Mushrif Park| Al Mushrif| Abu Dhabi,Fast Food| Burger,Emirati Diram(AED),No,No,No,No,3,228,100,4.2
+18277098,Genghis Grill,214,Abu Dhabi,Level 2| Al Wahda Mall New Extension| Al Wahda| Abu Dhabi,Asian,Emirati Diram(AED),No,No,No,No,4,81,180,4.6
+5701446,Olive Garden,214,Abu Dhabi,Level 3| Al Wahda Mall Extension| Al Wahda| Abu Dhabi,Italian| Pizza,Emirati Diram(AED),No,No,No,No,4,422,230,4.1
+5700052,Cho Gao - Crowne Plaza Abu Dhabi,214,Abu Dhabi,Crowne Plaza Abu Dhabi| Sheikh Hamdan Bin Mohammed Street| Al Markaziya| Abu Dhabi,Thai| Japanese| Chinese| Indonesian| Vietnamese,Emirati Diram(AED),Yes,Yes,No,No,4,246,350,4.4
+5702418,Gazebo,214,Abu Dhabi,Ground Level| Next to E-Max| Dalma Mall| Mussafah Sanaiya| Abu Dhabi,Indian| North Indian| Mughlai| Biryani,Emirati Diram(AED),Yes,Yes,No,No,3,355,120,4
+5700386,Sangeetha Vegetarian Restaurant,214,Abu Dhabi,Opposite Cristal Hotel| Behind KM Trading| Electra Street| Madinat Zayed| Abu Dhabi,Indian| South Indian,Emirati Diram(AED),No,Yes,No,No,2,268,60,3.6
+5704202,Hot Palayok,214,Abu Dhabi,Food Court| Level 2| Madinat Zayed Shopping Centre| Madinat Zayed| Abu Dhabi,Filipino| Japanese| Asian,Emirati Diram(AED),No,Yes,No,No,3,162,100,4.5
+5701052,Applebee's,214,Abu Dhabi,Level 3| Mushrif Mall| Al Mushrif| Abu Dhabi,American| Mexican| Seafood,Emirati Diram(AED),No,Yes,No,No,4,205,250,4
+5704118,Tikka Tonight,214,Abu Dhabi,Behind RAK Bank| Sanaiya ME11| Mussafah Sanaiya| Abu Dhabi,Pakistani| Afghani| Indian| Hyderabadi,Emirati Diram(AED),No,Yes,No,No,2,277,50,4
+5701548,Bait El Khetyar,214,Abu Dhabi,Al Najda Street| Najda| Abu Dhabi,Lebanese| Arabian| Middle Eastern,Emirati Diram(AED),No,Yes,No,No,2,380,70,4
+18235425,Indian By Nature,214,Abu Dhabi,Shop 2-3| Tolico Building| Behind Lebanese Roastery| Near National Hospital| Najda| Abu Dhabi,Indian,Emirati Diram(AED),Yes,Yes,No,No,3,180,80,4.3
+5702615,Via Delhi,214,Abu Dhabi,Near First Flight Couriers| Behind ADNOC Head Office| Salam Street| Najda Area| Najda| Abu Dhabi,Indian| North Indian| Chinese,Emirati Diram(AED),No,Yes,No,No,3,525,100,4
+5703500,Punjab Grill,214,Abu Dhabi,Venetian Village| Ritz Carlton Abu Dhabi| Grand Canal| Al Maqtaa| Abu Dhabi,Indian| North Indian,Emirati Diram(AED),Yes,No,No,No,4,216,330,4.9
+18253896,Tamba,214,Abu Dhabi,6th Floor| World Trade Centre Mall| Al Markaziya| Abu Dhabi,Indian,Emirati Diram(AED),Yes,No,No,No,4,201,500,4.7
+5701917,P.F. Chang's,214,Abu Dhabi,Level 1| World Trade Center Mall| Central Market| Al Markaziya| Abu Dhabi,Chinese,Emirati Diram(AED),No,No,No,No,4,435,250,4.2
+5702574,The Cheesecake Factory,214,Abu Dhabi,Level 1| Yas Mall| Yas Leisure Dr| Yas Island| Abu Dhabi,American| Desserts,Emirati Diram(AED),No,No,No,No,4,586,200,4.6
+202321,The Farm,214,Dubai,Al Barari Villas| Opposite Falcon City| Al Barari| Dubai,Mediterranean| Italian| Thai| European,Emirati Diram(AED),Yes,No,No,No,3,927,280,3.9
+206488,Maharaja Bhog,214,Dubai,Ground Level| Hamsah Mall| Next to Ansar Gallery| Al Karama| Dubai,Indian| Rajasthani,Emirati Diram(AED),Yes,Yes,No,No,2,1448,90,4.1
+209654,Rasoi Ghar,214,Dubai,Zainal Mohebi Plaza| Sheikh Khalifa Bin Zayed Road| Opposite Centrepoint| Al Karama| Dubai,Indian,Emirati Diram(AED),Yes,Yes,No,No,2,1281,90,4.3
+18340881,Barbeque Nation,214,Dubai,G1| Villa| Near HQ Fitness| Near Lulu Mall| Barsha 2| Dubai,Indian| North Indian,Emirati Diram(AED),Yes,No,No,No,3,307,150,4.5
+18233284,Farzi Cafe,214,Dubai,CITY WALK| Al Safa & Al Wasl Road Intersection| Al Safa| Dubai,International| Indian,Emirati Diram(AED),Yes,No,No,No,3,909,200,4.5
+18269368,AB's Absolute Barbecues,214,Dubai,Mezzanaine Floor| Centurion Star Tower| Deira City Centre Area| Dubai,Continental| Indian,Emirati Diram(AED),Yes,No,No,No,3,641,160,4.9
+18254160,Carnival By Tresind,214,Dubai,Podium Level| Burj Daman| DIFC| Dubai,Indian,Emirati Diram(AED),Yes,No,No,No,4,322,500,4.9
+208939,AB's Absolute Barbecues,214,Dubai,Shop G05| Sidra Tower| Near GEMS Wellington School| Exit 36| Sheikh Zayed Road| Dubai Media City| Dubai,Indian| Continental,Emirati Diram(AED),Yes,No,No,No,3,2510,160,4.8
+201531,Hard Rock Cafe,214,Dubai,Next to Marks & Spencer's| Festival City| Dubai,American| Burger,Emirati Diram(AED),No,No,No,No,4,1388,300,4.5
+208965,The Coffee Club,214,Dubai,Wasl Vita| Opposite Civil Defence Station| Near Emirates NBD| Al Wasl Road| Jumeirah 1| Dubai,Cafe,Emirati Diram(AED),No,Yes,No,No,3,403,140,4.5
+208778,SALT,214,Dubai,Kite Beach| Street 2D| Umm Suqeim| Dubai,Fast Food| Burger,Emirati Diram(AED),No,No,No,No,3,1351,100,4.3
+209703,Din Tai Fung,214,Dubai,Level 2 Expansion| Mall of the Emirates| Barsha 1| Dubai,Asian| Chinese,Emirati Diram(AED),No,No,No,No,3,661,160,4.3
+18381837,SpiceKlub,214,Dubai,Opposite Aster Hospital| Near Sharaf DG| Kuwait Street| Mankhool| Dubai,Indian| North Indian| Street Food,Emirati Diram(AED),Yes,No,No,No,3,281,150,4.4
+208850,Tresind - Nassima Royal Hotel,214,Dubai,Level 2| Nassima Royal Hotel| Sheikh Zayad Road| Trade Centre Area| Dubai,Indian,Emirati Diram(AED),Yes,No,No,No,4,1352,500,4.9
+210134,Grand Barbeque Buffet Restaurant,214,Dubai,Al Mina Road| Next to Ibis Styles Jumeirah Hotel| Satwa| Dubai,Indian| Asian,Emirati Diram(AED),Yes,Yes,No,No,3,552,150,4.4
+201044,Red Lobster,214,Dubai,Near the Fountain| Lower Ground Level| The Dubai Mall| Downtown Dubai| Dubai,Seafood| American,Emirati Diram(AED),No,No,No,No,3,506,285,3.2
+201340,The Cheesecake Factory,214,Dubai,Ground Level| Near Aquarium| The Dubai Mall| Downtown Dubai| Dubai,American| Desserts,Emirati Diram(AED),No,No,No,No,3,2424,270,4.7
+18289126,Parker's,214,Dubai,The Dubai Mall| Downtown Dubai| Dubai,Cafe| Burger,Emirati Diram(AED),No,No,No,No,3,386,170,4.3
+202507,Applebee's,214,Dubai,Sheikh Issa Tower| Sheikh Zayed Road| Trade Centre Area| Dubai,American| Mexican| Burger,Emirati Diram(AED),No,Yes,No,No,3,500,250,3.7
+210139,Grub Shack,214,Dubai,Building 41| Next to Dubai Healthcare City Metro Station| Dubai Healthcare City| Umm Hurair| Dubai,Goan| Chinese| Indian| North Indian,Emirati Diram(AED),Yes,Yes,No,No,3,544,130,4.3
+5600424,Kamat,214,Sharjah,Opposite HSBC| Near Emax| King Faisal Street| Abu Shagara| Sharjah,Indian| North Indian| South Indian| Chinese,Emirati Diram(AED),No,Yes,No,No,3,285,85,3.9
+5602751,Vadakkan Pepper,214,Sharjah,Near New City Center Supermarket| Abu Shagara| Sharjah,South Indian,Emirati Diram(AED),No,Yes,No,No,3,210,70,3.8
+5600457,Gazebo,214,Sharjah,Opposite Safeer Market| Near E max| King Faisal Street| Abu Shagara| Sharjah,Indian| Mughlai| South Indian| Biryani,Emirati Diram(AED),No,Yes,No,No,4,372,120,4.1
+5600642,Katis Restaurant,214,Sharjah,Opposite Safeer Market| Al Khan Street| Al Khan| Sharjah,Indian| North Indian| Chinese,Emirati Diram(AED),No,No,No,No,3,316,65,4.3
+18268134,Zaroob,214,Sharjah,Al Buhaira Corniche Street| Al Majaz Water Front| Al Majaz| Sharjah,Lebanese,Emirati Diram(AED),No,Yes,No,No,4,69,110,3.9
+18376208,Derby,214,Sharjah,Al Khan Street| Al Majaz 3| Al Majaz| Sharjah,Fast Food| American,Emirati Diram(AED),No,No,No,No,2,33,40,4.1
+5600959,Nayaab Haandi,214,Sharjah,Near Etisalat Business Center| Opposite ADNOC Petrol Station| Al Khan Street| Al Majaz 2| Al Majaz| Sharjah,Pakistani| Indian,Emirati Diram(AED),No,Yes,No,No,4,449,100,4.1
+5600103,Najmat Lahore Restaurant,214,Sharjah,Near Sharjah Animal Market| Al Mina Road| Al Mareija| Sharjah,Pakistani| Indian| Mughlai,Emirati Diram(AED),No,Yes,No,No,3,504,80,4.2
+5602586,Saffron,214,Sharjah,Mina Road| Opposite Bird Market| Al Mareija| Sharjah,Pakistani| Chinese| Indian| Afghani,Emirati Diram(AED),No,Yes,No,No,3,192,90,4.1
+5600961,Pizza Hut,214,Sharjah,Next to Safeer Mall| Al Nahda| Sharjah,Fast Food| Pizza,Emirati Diram(AED),No,No,No,No,3,154,80,2.4
+5600960,Al Mukhtar Bakery,214,Sharjah,Near Safeer Mall| Al Nahda| Sharjah,Bakery| Arabian| Middle Eastern,Emirati Diram(AED),No,No,No,No,2,142,50,4.2
+5601340,Aroos Damascus,214,Sharjah,Opposite Emirates NBD| Near First Gulf Bank| King Abdul Aziz Street| Al Nud| Sharjah,Arabian| Middle Eastern,Emirati Diram(AED),No,No,No,No,3,444,60,4.2
+5600701,Nando's,214,Sharjah,Ground level| Block D| Qanat Al Qasba| Al Khan| Sharjah,African| Portuguese,Emirati Diram(AED),No,Yes,No,No,4,265,160,4.2
+5601404,Peking Chinese Restaurant,214,Sharjah,Opposite Spinneys Roundabout| Estiqlal Square| Halwan Suburb| Sharjah,Chinese| Thai,Emirati Diram(AED),No,Yes,No,No,4,227,130,3.8
+5600556,TGI Friday's,214,Sharjah,Majaz Waterfront| Buhairah Corniche| Al Majaz 3| Al Majaz| Sharjah,American| Mexican,Emirati Diram(AED),No,Yes,No,No,4,357,250,3.9
+5602055,Rajasthan Al Malaki,214,Sharjah,Behind DPS Sharjah Primary School| Muwailih Commercial| Sharjah,Indian| North Indian,Emirati Diram(AED),No,No,No,No,3,459,60,4.8
+5601521,Applebee's,214,Sharjah,Opposite Jumbo Electronics| Level 2| Sahara Centre| Al Nahda| Sharjah,American| Mexican| Burger,Emirati Diram(AED),No,Yes,No,No,4,197,250,4.1
+5602377,Paper Fig,214,Sharjah,Near Dubai Islamic Bank| Muweilah| University City| Sharjah,Cafe| Bakery| Desserts,Emirati Diram(AED),No,No,No,No,4,143,150,4.5
+5602884,Sis Burger,214,Sharjah,Behind ADNOC Petrol Station|Univercity City Road| University City| Sharjah,Fast Food| Burger,Emirati Diram(AED),No,No,No,No,2,12,50,3.8
+5602942,Crafted Blends,214,Sharjah,Next To Super Bonanza Hyper Market| Opposite Defence Camp| University City| Sharjah,Cafe,Emirati Diram(AED),No,No,No,No,4,43,110,4.2
+3400025,Jahanpanah,1,Agra,E 23| Shopping Arcade| Sadar Bazaar| Agra Cantt| Agra,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,140,850,3.9
+3400341,Rangrezz Restaurant,1,Agra,E-20| Shopping Arcade| Sadar Bazaar| Agra Cantt| Agra,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,2,71,700,3.5
+3400005,Time2Eat - Mama Chicken,1,Agra,Main Market| Sadar Bazaar| Agra Cantt| Agra,North Indian,Indian Rupees(Rs.),No,No,No,No,2,94,500,3.6
+3400021,Chokho Jeeman Marwari Jain Bhojanalya,1,Agra,1/48| Delhi Gate| Station Road| Raja Mandi| Civil Lines| Agra,Rajasthani,Indian Rupees(Rs.),No,No,No,No,2,87,400,4
+3400017,Pinch Of Spice,1,Agra,23/453| Opposite Sanjay Cinema| Wazipura Road| Sanjay Place| Civil Lines| Agra,North Indian| Chinese| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,177,1000,4.2
+3400325,MoMo Cafe,1,Agra,Courtyard by Marriott Agra| Phase 2| Fatehabad Road| Tajganj| Agra,North Indian| European,Indian Rupees(Rs.),No,No,No,No,4,45,2000,4
+3400059,Peshawri - ITC Mughal,1,Agra,ITC Mughal| Fatehabad Road| Tajganj| Agra,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,4,133,2500,4.3
+3400060,Taj Bano - ITC Mughal,1,Agra,ITC Mughal| Fatehabad Road| Tajganj| Agra,Mughlai,Indian Rupees(Rs.),No,No,No,No,4,41,2500,4
+3400348,G Thal,1,Agra,3/20| KPS Tower| Near Tulsi Talkies| Bypass Road| Khandari| Agra,Rajasthani| Gujarati| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,59,800,3.6
+3400072,Dawat-e-Nawab - Radisson Blu,1,Agra,Radisson Blu| Taj East Gate Road| Tajganj| Agra,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,4,46,3600,3.8
+3400073,The Latitude - Radisson Blu,1,Agra,Radisson Blu| Taj East Gate Road| Tajganj| Agra,North Indian| Chinese| Continental,Indian Rupees(Rs.),No,No,No,No,1,103,0,3.9
+3400019,Dasaprakash Restaurant,1,Agra,Meher Cinema Complex| Gwalior Road| Rakabganj| Agra,South Indian| Desserts,Indian Rupees(Rs.),No,No,No,No,2,121,550,4.1
+3400033,The Charcoal Chimney,1,Agra,Hotel Samovar| Fatehabad Road| Tajganj| Agra,North Indian| Chinese| Continental| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,70,1100,3.4
+3400346,Sheroes Hangout,1,Agra,Opposite The Gateway Hotel| Fatehabad Road| Tajganj| Agra,Cafe| North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,1,77,0,4.9
+3400350,Bon Barbecue,1,Agra,Parador Hotel| 3A-3B| Phase 1| Fatehabad Road| Taj Nagri| Tajganj| Agra,North Indian| Chinese| Continental,Indian Rupees(Rs.),No,No,No,No,4,57,1500,3.8
+3400391,Chapter 1 Cafe,1,Agra,1374 K/1375 K| 2nd floor| Dinesh Nagar| Fatehbad Road| Tajganj| Agra,Cafe| Italian| Mexican| North Indian| Continental,Indian Rupees(Rs.),No,No,No,No,1,98,0,3.9
+3400016,Pind Balluchi,1,Agra,Opposite Saga Emporium| Fatehabad Road| Tajganj| Agra,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,175,900,3.7
+3400105,Pizza Hut,1,Agra,8| Handicraft Nagar| Fatehabad Road| Tajganj| Agra,Italian| Pizza,Indian Rupees(Rs.),No,No,No,No,2,134,700,4.4
+3400326,Tea'se Me - Rooftop Tea Boutique,1,Agra,Near Purani Mandi Crossing|Fatehabad Road| Tajganj| Agra,Chinese| Italian| Continental| North Indian,Indian Rupees(Rs.),No,No,No,No,3,166,1000,4.2
+3400392,Thaaliwala,1,Agra,Next To ITC Mughal Hotel| Fatehabad Road| Tajganj| Agra,North Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,168,700,4.1
+111895,650 - The Global Kitchen,1,Ahmedabad,Shreekunj Mandapam| Beside Golden Tulip Bunglows & Tulip Citadel| Manekbaug| Ambavadi| Ahmedabad,Chinese| Italian| North Indian| Mexican| Mediterranean| Thai,Indian Rupees(Rs.),No,No,No,No,3,1582,900,4.2
+110502,Patang - The Revolving Restaurant,1,Ahmedabad,Chinubhai Tower| Nehru Bridge Corner| Ashram Road| Ahmedabad,Continental| Chinese| North Indian,Indian Rupees(Rs.),No,No,No,No,4,1315,1800,3.7
+18396250,Huber & Holly,1,Ahmedabad,7 B| Circle  B| Opposite Rajpath Club| Sarkhej| Gandhinagar Highway| Bodakdev| Ahmedabad,Ice Cream| Desserts| Continental,Indian Rupees(Rs.),No,Yes,No,No,1,217,300,4.5
+113702,@Mango,1,Ahmedabad,Opposite Sindhu Bhawan| Bodakdev| Ahmedabad,North Indian| Continental| Mexican| Italian,Indian Rupees(Rs.),No,No,No,No,3,769,800,4.1
+113433,Fozzie's Pizzaiolo,1,Ahmedabad,Ground Floor| Maruti Crystal| Opposite Rajpath Club| Service Road| Bodakdev| Ahmedabad,Pizza| Italian| Beverages| Desserts,Indian Rupees(Rs.),No,Yes,No,No,3,731,900,4.3
+18438909,La Pino'z Pizza,1,Ahmedabad,Shop 10|  Circle B| Nyay Marg| Bodakdev| Ahmedabad,Pizza| Italian,Indian Rupees(Rs.),No,Yes,No,No,2,113,500,4.4
+18143128,Mocha,1,Ahmedabad,6-9| Ground Floor| Devashish Business Park| Opposite Krishna Complex| Bodakdev| Ahmedabad,Cafe| Continental| Desserts,Indian Rupees(Rs.),No,Yes,No,No,3,944,1000,4.4
+18438944,Blue -  Rooftop Cafe Restaurant Bistro,1,Ahmedabad,10th Floor| Balaji Heights Buliding| Behind Tanishq Showroom| C G Road| Ahmedabad,North Indian| Cafe| Italian| Mexican| Continental,Indian Rupees(Rs.),No,Yes,No,No,3,63,1000,3.8
+110436,MoMo Caf? - Courtyard By Marriott,1,Ahmedabad,Courtyard By Marriott| Ramdevnagar Cross Road| Satellite| Ahmedabad,North Indian| South Indian| Asian| Continental,Indian Rupees(Rs.),No,No,No,No,3,375,1400,3.6
+18385201,Cryo Lab,1,Ahmedabad,Ground Floor| Arjun Avenue| Opposite Samartheshwar Mahadev| Law Garden| Ahmedabad,Desserts| Ice Cream,Indian Rupees(Rs.),No,No,No,No,2,166,350,4.6
+110395,Swati Snacks,1,Ahmedabad,Near Law Garden| Ellis Bridge| Ahmedabad,Fast Food| Street Food| South Indian,Indian Rupees(Rs.),No,No,No,No,2,697,450,4.4
+18335583,Brick Kitchen,1,Ahmedabad,At Five Petals Hotel & Banquets| Near Chanakyapuri Bridge| Ghatlodia| Ahmedabad,North Indian| Chinese| Continental,Indian Rupees(Rs.),No,No,No,No,3,325,900,4.3
+110237,Kabir Restaurant,1,Ahmedabad,JB Tower| Opposite Doordarshan Kendra| Drive In Road| Gurukul| Ahmedabad,North Indian| Chinese| Continental| Desserts| Fast Food| Sandwich,Indian Rupees(Rs.),No,Yes,No,No,2,432,600,3.8
+113537,Puffizza,1,Ahmedabad,103| Kairos| Opposite Mahatma Gandhi Labour Institute| Drive In Road| Gurukul| Ahmedabad,Italian| Fast Food,Indian Rupees(Rs.),No,Yes,No,No,2,744,700,4.3
+113703,Cafe Alfresco,1,Ahmedabad,101| Dynamic House| Vijay Cross Road| Above HDFC Bank| Opposite Child Care Hospital| Navrangpura| Ahmedabad,Cafe| Beverages| Desserts| Pizza,Indian Rupees(Rs.),No,Yes,No,No,2,404,700,4
+18385186,The Cafe Baraco,1,Ahmedabad,34| Shribhuvan Complex| Near Memnagar Fire Station| Navrangpura| Ahmedabad,Cafe| Italian,Indian Rupees(Rs.),No,Yes,No,No,2,317,600,4.4
+113325,Nini's Kitchen,1,Ahmedabad,12| First Floor| Camps Corner 2| Opposite Prahlad Nagar Garden| Prahlad Nagar| Ahmedabad,North Indian| Continental| Beverages| Italian| Burger| Healthy Food| Mediterranean,Indian Rupees(Rs.),No,Yes,No,No,3,1138,950,4.5
+111826,Yanki Sizzlers,1,Ahmedabad,4| Ground Floor| Binori Ambit| Next to Renault Showroom| Thaltej Circle| Thaltej| Ahmedabad,Continental| Italian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,1041,1200,4.1
+110516,The Garden Cafe - The Fern,1,Ahmedabad,The Fern| Near Sola Overbridge| S G Highway| Sola| Ahmedabad,North Indian| Italian| Asian| South Indian,Indian Rupees(Rs.),No,No,No,No,3,192,1200,4.1
+18371341,Mazzo,1,Ahmedabad,27| Sunshine Villa| Sunrise Park Society| Vastrapur| Ahmedabad,Cafe| American| Continental| Armenian| Fast Food,Indian Rupees(Rs.),No,Yes,No,No,2,166,550,3.9
+113570,Turquoise Villa,1,Ahmedabad,Ground Floor| Shanay - 1| Near AMA| IIM Road| Vastrapur| Ahmedabad,Continental,Indian Rupees(Rs.),No,No,No,No,3,535,1200,4
+2400020,Aryan Family's Delight,1,Allahabad,Ground Floor| Vinayak City Centre| Sardar Patel Marg| Civil Lines| Allahabad,North Indian| South Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,3,57,500,3.4
+2400148,Bean Here,1,Allahabad,Vinayak Pushp| 77 Elgin Road| Near Florista| Civil Lines| Allahabad,Cafe| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,76,350,3.3
+2400019,Bikanerwala,1,Allahabad,2A| JMD Bhawan| Strachey Road| Civil Lines| Allahabad,North Indian| Street Food| Fast Food,Indian Rupees(Rs.),No,No,No,No,3,51,500,3.2
+2400193,Dewsis,1,Allahabad,2| MG Marg| Opposite Hanuman Mandir| Civil Lines| Allahabad,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,99,600,3.4
+2400027,Friends Forever,1,Allahabad,13/13| Sardar Patel Marg| Civil Lines| Allahabad,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,83,600,3.4
+17960073,Hotel Ravisha Continental,1,Allahabad,57 A| Purshottamdas Tandon Marg| Civil Lines| Allahabad,North Indian| South Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,18,600,3.4
+2400119,KFC,1,Allahabad,P Square Mall| Civil Lines| Allahabad,American| Fast Food,Indian Rupees(Rs.),No,No,No,No,3,58,500,3.4
+2400014,McDonald's,1,Allahabad,Shop 4| 34-B| M G Marg| Civil Lines| Allahabad,Fast Food,Indian Rupees(Rs.),No,No,No,No,2,53,400,3.3
+2400403,Pind Balluchi,1,Allahabad,5-A| Sardar Patel Marg| Civil Lines| Allahabad,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,6,800,3.2
+2400349,Pizza Hut,1,Allahabad,31/31| Sardar Patel Marg| Civil Lines| Allahabad,Italian| Pizza,Indian Rupees(Rs.),No,No,No,No,3,35,700,3.4
+2400279,Subway,1,Allahabad,207/53| Mahatma Gandhi Marg| Civil Lines| Allahabad,Fast Food| American| Salad| Healthy Food,Indian Rupees(Rs.),No,No,No,No,2,32,400,3.4
+2400017,Tandoor Restaurant,1,Allahabad,17/33| Mahatama Gandhi Marg| Civil Lines| Allahabad,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,151,500,3.2
+18317988,The BrewMaster,1,Allahabad,Near Vishal Megamart| Civil Lines| Allahabad,North Indian| Chinese| Italian,Indian Rupees(Rs.),No,No,No,No,1,49,0,3.3
+2400144,The Tamarind Tree,1,Allahabad,60 C| Thornhill Road| Civil Lines| Allahabad,South Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,106,500,3.4
+2400195,Cafe El Chico,1,Allahabad,24| Mahatma Gandhi| Civil Lines| Allahabad,Continental| Italian,Indian Rupees(Rs.),No,No,No,No,4,59,1000,3.6
+2400052,Eat On,1,Allahabad,Palace Compound| Near Palace Cinema| MG Marg| Civil Lines| Allahabad,North Indian,Indian Rupees(Rs.),No,No,No,No,1,105,200,3.7
+2400016,Hot Stuff,1,Allahabad,21 C| Lal Bhadhur Shastri Marg| Civil Lines| Allahabad,North Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,3,105,500,3.5
+2400293,Paradise,1,Allahabad,19/35| MG Marg| Civil Lines| Allahabad,Desserts| Fast Food,Indian Rupees(Rs.),No,No,No,No,3,57,500,3.6
+2400009,Sagar Ratna,1,Allahabad,3/3| Near Balson Crossing| Hashimpur Road| Tagore Town| Allahabad,South Indian| North Indian| Chinese| Continental,Indian Rupees(Rs.),No,No,No,No,2,134,400,3.5
+2400010,Moti Mahal Delux,1,Allahabad,Second Floor| Vinayak City Center Mall| SP Marg| Civil Lines| Allahabad,Mughlai| North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,3,58,800,3.3
+2200011,Makhan Fish and Chicken Corner,1,Amritsar,21-A| Near Madaan Hospital| Majitha Road| Basant Nagar| Amritsar,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,2,345,700,3.4
+2200078,Charming Chicken,1,Amritsar,Shop 3| Opposite Nari Nikaten| Majithia Road| Near Basant Nagar| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,1,151,300,3.9
+18204507,Ahuja Milk Bhandar,1,Amritsar,Dhab Khatikan| Near Hindu College| Hathi Gate| Amritsar,Beverages,Indian Rupees(Rs.),No,No,No,No,1,52,100,4
+2200030,Crystal Restaurant,1,Amritsar,Crystal Chowk| Queens Road| INA Colony| Amritsar,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,3,122,800,3.4
+2200201,Brijwasi Chat Bhandar,1,Amritsar,Crystal Chowk| Cooper Road| Near INA Colony,Street Food,Indian Rupees(Rs.),No,No,No,No,1,56,150,3.6
+2200067,Bubby Fish & Chicken Corner,1,Amritsar,Near Crystal Chowk| Cooper Road| INA Colony| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,1,91,300,3.5
+2200358,Bon Gateau,1,Amritsar,SCF 27| C Block Market| Ranjit Avenue| Amritsar,Cafe| Bakery| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,26,500,3.4
+2200001,The Yellow Chilli,1,Amritsar,108| GRD Towers| District Shopping Center| Ranjit Avenue| Amritsar,North Indian| Mughlai| Chinese,Indian Rupees(Rs.),No,No,No,No,3,98,1200,3.4
+2200033,La Roma Pizzeria,1,Amritsar,SCO 6| District Shopping Complex| Ranjit Avenue| Amritsar,Fast Food| Italian,Indian Rupees(Rs.),No,No,No,No,2,111,400,3.5
+2200283,Sakhis Watz Kukin,1,Amritsar,M 47| Green Avenue| opp Main Park| Amritsar,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,2,51,700,3.6
+2200045,The Kulcha Land,1,Amritsar,Opposite M.K Hotel| District Shopping Centre| Ranjit Avenue| Amritsar,North Indian| Street Food,Indian Rupees(Rs.),No,No,No,No,1,206,200,3.9
+2200149,Shudh Restaurant,1,Amritsar,Opposite Gurudwara Saragarhi| Near Dharm Singh Market Chowk| Fuwara| Town Hall| Amritsar,North Indian| South Indian| Chinese| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,44,600,3.4
+2200043,Bade Bhai Ka Brothers' Dhaba,1,Amritsar,Near Amritsar Municipal Corporation| Town Hall| Amritsar,North Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,94,500,3.7
+2200044,Bharawan Da Dhaba,1,Amritsar,Near Amritsar Municipal Corporation| Town Hall| Amritsar,North Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,461,500,3.5
+2200132,Brothers Dhaba,1,Amritsar,Golden Temple Out Road| Opposite Amritsar Municipal Corporation| Town Hall| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,2,276,500,3.8
+2200236,Brothers' Amritsari Dhaba,1,Amritsar,Phawara Chowk| Town Hall| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,2,71,400,3.8
+2200175,Gurdas Ram Jalebi Wala,1,Amritsar,Near Golden Temple| Town Hall| Amritsar,Mithai,Indian Rupees(Rs.),No,No,No,No,1,104,100,4.1
+2200000,Kesar Da Dhabha,1,Amritsar,Near Telephone Exchange| Chowk Passian| Shastri Market| Near Town Hall| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,2,878,500,4.1
+2200055,Beera Chicken Corner,1,Amritsar,Opposite Bandari Hospital| Sehaj Avenue| Majitha Road| Near White Avenue| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,2,192,500,3.8
+2200034,Surjit Food Plaza,1,Amritsar,Shop 4| Nehru Shopping Complex| Lawrence Road| White Avenue| Amritsar,North Indian,Indian Rupees(Rs.),No,No,No,No,3,96,1000,3.5
+2200153,Kanha Sweets,1,Amritsar,Shop 1| Opposite Bijli Pehalwan Mandir| Lawrence Road| White Avenue| Amritsar,Fast Food,Indian Rupees(Rs.),No,No,No,No,1,140,150,4.1
+2500023,Kream N Krunch,1,Aurangabad,2| Near Akashwani Circle| Mahesh Nagar| Jalna Road| Akashwani| Aurangabad,North Indian| Chinese| Continental| Italian,Indian Rupees(Rs.),No,No,No,No,3,240,800,3.6
+2500076,Balbeer's Kitchen & Bar,1,Aurangabad,Shendra| Near Cambridge School| Jalna Road| Chicalthana| Aurangabad,Italian| Continental| Chinese| North Indian,Indian Rupees(Rs.),No,No,No,No,3,65,850,3.3
+2500054,Angeethi Restaurant,1,Aurangabad,Seven Hill Flyover| Jalna Road| Vidya Nagar| CIDCO| Aurangabad,North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,2,63,600,3.3
+2500134,Domino's Pizza,1,Aurangabad,8| Upper Ground Floor| City Pride Commercial Complex| Kali Bawdi| Jalna Road| CIDCO| Aurangabad,Pizza,Indian Rupees(Rs.),No,No,No,No,2,19,700,3.1
+2500069,Hotel Laadli,1,Aurangabad,Goodwill Complex| Opposite Cidco Busstand| N-2| CIDCO| Aurangabad,North Indian| South Indian,Indian Rupees(Rs.),No,No,No,No,2,46,350,3.4
+2500256,Indiana Veg Restaurant,1,Aurangabad,Plot 2| Near High Court| N-3| CIDCO| Aurangabad,South Indian| North Indian| Chinese| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,75,450,3.4
+2500024,Madhuban Restaurant - Welcome Hotel Rama International,1,Aurangabad,Welcome Hotel Rama International| Opposite High Court| CIDCO| Aurangabad,North Indian| Chinese| Continental| Italian| Mexican,Indian Rupees(Rs.),No,No,No,No,4,94,1800,3.4
+2500075,Mauj Restaurant,1,Aurangabad,31| Kailash Arcade| Opposite Bank of Baroda| Connaught Place| CIDCO| Aurangabad,Italian| Fast Food| North Indian| Chinese,Indian Rupees(Rs.),No,No,No,No,2,47,500,3.3
+2500029,Naivedya,1,Aurangabad,Sakal Office| Jalna Road| CIDCO| Aurangabad,North Indian,Indian Rupees(Rs.),No,No,No,No,2,71,500,3.4
+2500079,d' Curry House,1,Aurangabad,Hotel Green Olive| Near Baba Petrol Pump| Nirala Bazar| Aurangabad,Continental| Chinese| Biryani| North Indian,Indian Rupees(Rs.),No,No,No,No,3,73,1000,3.6
+2500343,Mokoholic Juice Bar,1,Aurangabad,Opposite Municipal Car Parking| Paithan Gate| Near Mondha| Aurangabad,Juices| Desserts,Indian Rupees(Rs.),No,No,No,No,1,21,300,3.5
+2500052,Ashoka's Veg Restaurant,1,Aurangabad,31| Opposite Kohinoor Plaza| Near M P Law College| Nirala Bazar| Aurangabad,South Indian| Chinese| North Indian,Indian Rupees(Rs.),No,No,No,No,2,46,400,3.3
+2500062,Kareem's Fine Dining,1,Aurangabad,A1-A3| Motiwala Complex| Below KFC Restaurant| Nirala Bazar| Aurangabad,Mughlai| Biryani,Indian Rupees(Rs.),No,No,No,No,2,45,700,3.3
+2500056,That Baat,1,Aurangabad,Near Vivekanand College| Samarth Nagar| Nirala Bazar Road| Aurangabad,Maharashtrian,Indian Rupees(Rs.),No,No,No,No,2,34,450,3.4
+2500030,Bhoj Restaurant,1,Aurangabad,First Floor| Bhau Pathak Smriti Kamgar Bhavan| CBS Road| Nirala Bazar| Aurangabad,North Indian,Indian Rupees(Rs.),No,No,No,No,2,89,450,3.7
+2500390,Downside Up,1,Aurangabad,6&7 B| Kuber Avenue| Rana Nagar| Near Nyay Nagar| Aurangabad,Cafe| Mughlai| North Indian,Indian Rupees(Rs.),No,No,No,No,2,8,400,3.2
+2500007,Kareem's Kabab & Biryani,1,Aurangabad,First Floor| Food Court| Prozone Mall| MIDC Industrial Area| Chicalthana| Aurangabad,Mughlai,Indian Rupees(Rs.),No,No,No,No,2,39,650,3.4
+2500123,Great Sagar Restaurant,1,Aurangabad,Near Bhadkal Gate| VIP Road| Shahgunj| Aurangabad,North Indian| Mughlai,Indian Rupees(Rs.),No,No,No,No,2,74,600,3.3
+2500122,Kailash Restaurant,1,Aurangabad,Rachanakar colony| Railway Station Road| Usmanpura| Aurangabad,North Indian| Chinese| South Indian| Fast Food,Indian Rupees(Rs.),No,No,No,No,2,76,450,3.3
+2500346,Yalla Yalla,1,Aurangabad,Near Gopal Tea Corner| Usmanpura Circle| Usmanpura| Aurangabad,North Indian| Hyderabadi,Indian Rupees(Rs.),No,No,No,No,2,71,500,3.3
+50943,Sultans of Spice,1,Bangalore,BluPetal Hotel| 60 Jyoti Nivas College Road| Koramangala 5th Block| Bangalore,North Indian| Mughlai,Indian Rupees(Rs.),Yes,Yes,No,No,3,2416,1300,4.1
+58268,The Fatty Bao - Asian Gastro Bar,1,Bangalore,610| 3rd Floor| 12th Main| Off 80 Feet Road| Indiranagar| Bangalore,Asian,Indian Rupees(Rs.),Yes,Yes,No,No,4,2369,2400,4.7
+51705,Toit,1,Bangalore,298| Namma Metro Pillar 62| 100 Feet Road| Indiranagar| Bangalore,Italian| American| Pizza,Indian Rupees(Rs.),No,No,No,No,4,10934,2000,4.8
+18162866,Three Dots & A Dash,1,Bangalore,840/1|100 Feet Road| Metro Pillar 56-57| Indiranagar| Bangalore,European| Continental,Indian Rupees(Rs.),Yes,No,No,No,3,1354,1300,3.9
+18407918,Bombay Brasserie,1,Bangalore,2989/B| 12th Main Road| HAL 2nd Stage| Indiranagar| Bangalore,Modern Indian,Indian Rupees(Rs.),No,Yes,No,No,3,231,1500,4.2
+2800042,Vista - The Park,1,Vizag,The Park| Beach Road| Pedda Waltair| Lawsons Bay| Visakhapatnam| Lawsons Bay| Vizag,American| North Indian| Thai| Continental,Indian Rupees(Rs.),No,No,No,No,4,74,1500,3.8
+2800019,Flying Spaghetti Monster,1,Vizag,10-50-12/F2| Sai Dakshata Complex| Beside Lenovo Showroom|   Visakhapatnam| Waltair Uplands| Waltair Uplands| Vizag,Italian,Indian Rupees(Rs.),No,No,No,No,3,316,1400,4.4
+18400530,Noah's Barn Coffeenery,94,Bandung,Jl. Dayang Sumbi No. 2| Dago| Bandung,Cafe| Coffee and Tea| Western,Indonesian Rupiah(IDR),No,No,No,No,3,22,150000,4.2
+7423620,Momo Milk,94,Bogor,Jl. Kantor Pos No. 6| Bogor Timur| Bogor,Cafe| Desserts| Beverages,Indonesian Rupiah(IDR),No,No,No,No,2,783,70000,3.7
+7423482,Lemongrass,94,Bogor,Jl. Raya Pajajaran No. 21| Bogor Utara| Bogor,Peranakan| Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,1159,250000,4
+7422633,Talaga Sampireun,94,Jakarta,Jl. Lingkar Luar Barat,Sunda| Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,1662,200000,4.9
+7405789,Toodz House,94,Jakarta,Jl. Cipete Raya No. 79| Fatmawati| Jakarta,Cafe| Italian| Coffee and Tea| Western| Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,1476,165000,4.6
+18425821,OJJU,94,Jakarta,Gandaria City| Lantai Upper Ground| Jl. Sultan Iskandar Muda,Korean,Indonesian Rupiah(IDR),No,No,No,No,3,137,200000,3.9
+7422751,Union Deli,94,Jakarta,Grand Indonesia Mall| Lantai Ground| East Mall| Jl. MH Thamrin| Thamrin| Jakarta,Desserts| Bakery| Western,Indonesian Rupiah(IDR),No,No,No,No,3,903,200000,4.6
+7402935,Skye,94,Jakarta,Menara BCA| Lantai 56| Jl. MH. Thamrin| Thamrin| Jakarta,Italian| Continental,Indonesian Rupiah(IDR),No,No,No,No,3,1498,800000,4.1
+7410290,Satoo - Hotel Shangri-La,94,Jakarta,Hotel Shangri-La| Jl. Jend. Sudirman,Asian| Indonesian| Western,Indonesian Rupiah(IDR),No,No,No,No,3,873,800000,4.6
+18391256,MONKS,94,Jakarta,Komplek Graha Boulevard Timur| Summarecon Kelapa Gading Blok ND1/51| Kelapa Gading| Jakarta,Western| Asian| Cafe,Indonesian Rupiah(IDR),No,No,No,No,3,259,250000,4.2
+7400818,Zenbu,94,Jakarta,Kota Kasablanka| Lantai Upper Ground| Food Society| Jl. Casablanca Raya| Tebet| Jakarta,Japanese| Sushi| Ramen,Indonesian Rupiah(IDR),No,No,No,No,3,841,200000,4.4
+7420899,Sushi Masa,94,Jakarta,Jl. Tuna Raya No. 5| Penjaringan,Sushi| Japanese,Indonesian Rupiah(IDR),No,No,No,No,3,605,500000,4.9
+18352452,Lucky Cat Coffee & Kitchen,94,Jakarta,Plaza Festival| South Parking| Jl. HR Rasuna Said| Kuningan| Jakarta,Cafe| Western,Indonesian Rupiah(IDR),No,No,No,No,3,458,300000,4.3
+7421967,3 Wise Monkeys,94,Jakarta,Jl. Suryo No. 26| Senopati| Jakarta,Japanese,Indonesian Rupiah(IDR),No,No,No,No,3,395,450000,4.2
+18370659,Flip Burger,94,Jakarta,Jl. Senopati No. 27| Senopati| Jakarta,Burger,Indonesian Rupiah(IDR),No,No,No,No,3,410,120000,4.4
+7417455,Talaga Sampireun,94,Jakarta,Taman Impian Jaya Ancol| Jl. Lapangan Golf 7| Ancol| Jakarta,Sunda| Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,1640,200000,4.9
+18409146,Fish Streat,94,Jakarta,Jl. Tanjung Duren Utara III| Blok M Kav. 32| Tanjung Duren| Jakarta,Seafood| Western,Indonesian Rupiah(IDR),No,No,No,No,3,152,100000,3.4
+18408381,Fish Streat,94,Jakarta,Jl. Tebet Timur Dalam Raya 44B| Tebet| Jakarta,Seafood| Western,Indonesian Rupiah(IDR),No,No,No,No,3,331,100000,4
+7422489,Avec Moi Restaurant and Bar,94,Jakarta,Gedung PIC| Jl. Teluk Betung 43| Thamrin| Jakarta,French| Western,Indonesian Rupiah(IDR),No,No,No,No,3,243,350000,4.3
+18386856,Onokabe,94,Tangerang,Alam Sutera Town Center| Jl. Alam Utama| Serpong| Tangerang,Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,155,300000,3.7
+7417450,Talaga Sampireun,94,Tangerang,Jl. Boulevard Bintaro Jaya Blok B7/N1| Bintaro Sektor 7| Pondok Aren| Tangerang,Sunda| Indonesian,Indonesian Rupiah(IDR),No,No,No,No,3,2212,200000,4.9
+18251260,Kiss Kiss,148,Auckland,1 Rocklands Avenue| Balmoral| Auckland,Thai,NewZealand($),No,No,No,No,2,133,40,4.3
+7000162,Giapo,148,Auckland,12 Gore Street| Auckland CBD| Auckland,Ice Cream| Desserts,NewZealand($),No,No,No,No,1,617,20,4.7
+7001086,Milse,148,Auckland,The Pavilions| 27 Tyler Street| Britomart| Auckland CBD| Auckland 1010,Desserts,NewZealand($),No,No,No,No,3,754,50,4.9
+7003855,Orleans,148,Auckland,Roukai Lane| 48 Custom Street East| Britomart| Auckland CBD| Auckland 1010,American,NewZealand($),No,No,No,No,3,431,65,4.1
+7000095,Depot Eatery and Oyster Bar,148,Auckland,86 Federal Street| Auckland CBD| Auckland| 1010,Seafood| Kiwi,NewZealand($),No,No,No,No,4,598,90,4.8
+7003663,Federal Delicatessen,148,Auckland,86 Federal Street| Auckland CBD| Auckland 1010,Cafe| American,NewZealand($),No,No,No,No,3,696,60,4.6
+18217279,Miann,148,Auckland,57 Fort Street| Auckland Auckland CBD,Desserts,NewZealand($),No,No,No,No,1,281,25,4.9
+7005582,Little Sister Cafe,148,Auckland,91 Central Park Drive| Henderson| Auckland,Cafe,NewZealand($),No,No,No,No,3,213,45,4.5
+18419011,The Kimchi Project,148,Auckland,20 Lorne Street| Auckland CBD| Auckland,Asian Fusion| Cafe,NewZealand($),No,No,No,No,4,61,90,4.2
+7001208,De Fontein Belgian Beer Cafe,148,Auckland,75-79 Tamaki Drive| Mission Bay| Auckland,European,NewZealand($),No,No,No,No,4,402,100,2.3
+7005979,Chinoiserie,148,Auckland,4 Owairaka Avenue| Mt Albert| Auckland,Taiwanese| Street Food,NewZealand($),No,No,No,No,3,223,50,4.4
+7100535,Midnight Espresso,148,Wellington City,178 Cuba Street| Te Aro| Wellington City,Cafe,NewZealand($),No,No,No,No,2,157,40,4.3
+7101000,Olive,148,Wellington City,170 Cuba Street| Te Aro| Wellington City,Mediterranean| Cafe| European,NewZealand($),No,No,No,No,4,146,80,4.2
+7100938,wagamama,148,Wellington City,33 Customhouse Quay| Wellington Central| Wellington City 6011,Japanese| Asian,NewZealand($),No,No,No,No,4,131,70,3.7
+7101081,Charley Noble Eatery & Bar,148,Wellington City,Huddart Parker Building| Ground Floor| 1 Post Office Square| Wellington Central| Wellington City,European,NewZealand($),No,No,No,No,4,141,110,4.3
+7100788,The Crab Shack,148,Wellington City,15 Jervois Quay| Queens Wharf| Wellington Central| Wellington City,Seafood| Kiwi,NewZealand($),No,No,No,No,4,229,90,4.1
+6900714,Pepe's Piri Piri,215,Birmingham,254-256 Alum Rock Road| Alum Rock| Birmingham B8 3DD,Fast Food,Pounds(?),No,No,No,No,1,26,10,2.8
+6900883,Ju Ju's Cafe,215,Birmingham,1 Canal Square| Brindleyplace| Birmingham B16 8EH,Cafe| British,Pounds(?),No,No,No,No,1,13,15,3.7
+6900374,Bank,215,Birmingham,4 Brindleyplace| Brindleyplace| Birmingham B1 2JB,British| Steak,Pounds(?),Yes,No,No,No,3,133,60,4
+6900224,Chaophraya,215,Birmingham,Middle Mall| Bullring Shopping Centre| Special street| Bullring| Birmingham B5 4BH,Thai,Pounds(?),Yes,No,No,No,2,22,30,3.9
+6900160,Handmade Burger Co.,215,Birmingham,Unit 3| St Martin Square| Bullring Shopping Centre| Bullring| Birmingham B5 4BU,Burger| American,Pounds(?),No,No,No,No,2,21,35,3.7
+6900050,Jamie's Italian,215,Birmingham,Middle Mall| Bullring Shopping Centre| Bullring| Birmingham B5 4BU,Italian,Pounds(?),No,No,No,No,3,53,50,3.9
+6900724,Bodega,215,Birmingham,12 Bennetts Hill| City Centre| Birmingham B2 5RS,Latin American,Pounds(?),No,No,No,No,3,100,40,4.6
+6901081,San Carlo,215,Birmingham,4 Temple Street| City Centre| Birmingham B2 5BN,Italian,Pounds(?),No,No,No,No,3,148,45,4.2
+6900674,Purnell's,215,Birmingham,55 Cornwall Street| Colmore Business District| Birmingham B3 2DH,Contemporary,Pounds(?),No,No,No,No,4,265,120,4.5
+6901062,The Warehouse Cafe,215,Birmingham,54-57 Allison Street| Digbeth| Birmingham B5 5TH,British| Cafe,Pounds(?),No,No,No,No,2,38,20,3.8
+6900669,Fiesta del Asado,215,Birmingham,229 Hagley Road| Edgbaston| Birmingham B16 9RP,Latin American| Italian,Pounds(?),No,No,No,No,3,40,50,4
+6900811,Istanbul Restaurant,215,Birmingham,2 Stockwell Road| Handsworth| Birmingham B21 9RJ,Turkish,Pounds(?),No,No,No,No,2,9,30,3.6
+6901051,The Plough,215,Birmingham,21 High Street| Harborne| Birmingham B17 9NT,British,Pounds(?),No,No,No,No,2,55,30,4.2
+6801039,San Carlo,215,Manchester,40-42 King Street West| Spinningfields| Manchester M3 2WY,Italian,Pounds(?),No,No,No,No,2,745,25,4.3
+6801873,Mr Cooper's House & Garden - The Midland,215,Manchester,The Midland| Peter Street| Deansgate| Manchester M60 2DS,European| Mediterranean| Contemporary,Pounds(?),Yes,No,No,No,3,67,55,4.2
+6800782,The French by Simon Rogan - The Midland,215,Manchester,The Midland| Peter Street| Deansgate| Manchester M60 2DS,French,Pounds(?),No,No,No,No,4,114,160,4.3
+18426586,7st by Mumbai Spices,166,Doha,Barwa Commercial Avenue| Near Thursday & Friday Market Building| Near F Ring Road| Main Industrial Area Road| Ain Khalid| Doha,Indian| Street Food,Qatari Rial(QR),No,No,No,No,4,74,150,3.4
+6201976,Indian Coffee House,166,Doha,Beside Le Mirage Suites| Fereej Abdul Aziz Street| Al Doha Al Jadeeda| Doha,Indian,Qatari Rial(QR),No,No,No,No,3,350,80,3.4
+18107765,Zaffran Dining Experience,166,Doha,Al Emadi Financial Square| C Ring Road| Al Hilal| Doha,Indian,Qatari Rial(QR),No,No,No,No,4,348,300,4.6
+6201309,MRA Bakery Sweets & Restaurant,166,Doha,Opposite Aster Pharmacy| Al Taei Street| Al Ghanim| Doha,Kerala| Indian| Chinese| Bakery,Qatari Rial(QR),No,No,No,No,3,322,60,4
+6201312,Zaoq,166,Doha,Midmac Flyover| Salwa Road| Al Hilal| Doha,Pakistani,Qatari Rial(QR),No,No,No,No,4,189,170,4.2
+6201130,Vine - The St. Regis,166,Doha,1st Floor| The St. Regis Hotel| Westbay| Doha,International,Qatari Rial(QR),No,No,No,No,4,67,550,4.4
+18261203,Sabai Thai - The Westin Doha Hotel & Spa,166,Doha,Ground Floor| The Westin Doha Hotel & Spa| Fereej Bin Mahmoud| Doha,Thai,Qatari Rial(QR),No,No,No,No,4,73,445,4.3
+6201360,Paper Moon,166,Doha,Beside Jarir Bookstore| Jaidah Square| Al Matar Street| Umm Ghuwailina| Doha,Italian,Qatari Rial(QR),No,No,No,No,4,145,400,4.5
+18318801,Roti & Boti,166,Doha,Showroom #10| Al Emadi Suites| Ras Abu Aboud Street| Umm Ghuwailina| Doha,Indian,Qatari Rial(QR),No,No,No,No,4,109,160,3.9
+18395463,The Butcher's Wife,189,Cape Town,15 Belgravia Road| Athlone| Cape Town,Pizza| Grill,Rand(R),No,No,No,No,3,22,294,3.7
+18337845,Coco Safar,189,Cape Town,Ground Floor| Cavendish Square| Claremont| Cape Town,Cafe| Patisserie,Rand(R),No,No,No,No,4,88,300,4.1
+6401732,La Parada,189,Cape Town,107 Bree Street| CBD| Cape Town,Spanish| Tapas,Rand(R),No,No,No,No,4,255,360,3.7
+6401060,Jason Bakery,189,Cape Town,185 Bree Street| CBD| Cape Town,Cafe| Bakery,Rand(R),No,No,No,No,2,266,180,4.2
+6400421,Truth Coffee,189,Cape Town,36 Buitenkant Street| CBD| Cape Town,Cafe,Rand(R),No,No,No,No,2,514,150,4.4
+6402177,Salushi,189,Cape Town,25 Protea Road| Claremont| Cape Town,Japanese| Sushi| Asian,Rand(R),No,No,No,No,3,239,250,3.9
+6515135,Escondido Tapas,189,Sandton,Post Office Centre| Corner of Rudd Road and Otto Street| Illovo| Sandton,Mediterranean,Rand(R),No,No,No,No,4,743,450,4.4
+6502857,Remo's Maximilliano,189,Sandton,Waterfall Corner Mall| Corner of Maxwell & Woodmead Drives| Woodmead| Sandton,Italian| Pizza,Rand(R),No,No,No,No,4,390,360,3.8
+5800557,Chinese Dragon Cafe,191,Colombo,11| Milagiriya Avenue| Bambalapitiya| Colombo 04,Chinese,Sri Lankan Rupee(LKR),No,No,No,No,3,118,2000,3.4
+5800634,Elite Indian Restaurant,191,Colombo,124| New Bullers Road| Bambalapitiya| Colombo 04,North Indian| Chinese| Sri Lankan,Sri Lankan Rupee(LKR),No,No,No,No,2,240,1800,2.4
+5800567,CIOCONAT Lounge,191,Colombo,107| Barnes Place| Cinnamon Gardens| Colombo 07,Italian| Cafe| Desserts,Sri Lankan Rupee(LKR),No,No,No,No,3,157,2500,3.7
+5800891,The Paddington,191,Colombo,36| Barnes Place| Cinnamon Gardens| Colombo 07,Cafe| Italian,Sri Lankan Rupee(LKR),No,No,No,No,3,83,2000,3.6
+5800590,The Commons,191,Colombo,39 A| Flower Road| Cinnamon Gardens| Colombo 07,Cafe| Sri Lankan| Continental| American,Sri Lankan Rupee(LKR),No,No,No,No,3,209,2500,4
+5800755,Upali's,191,Colombo,65| C.W.W Kannangara Mawatha| Near Town Hall| Cinnamon Gardens| Colombo 07,Sri Lankan,Sri Lankan Rupee(LKR),No,No,No,No,3,114,2500,4
+5800515,Malay Restaurant,191,Colombo,115| Hill Street| Dehiwala| Colombo,Malaysian| North Indian| Sri Lankan,Sri Lankan Rupee(LKR),No,No,No,No,2,80,1500,3.5
+5800746,T.G.I. Friday's,191,Colombo,23| Canal Row| Fort| Colombo 01,American| Steak,Sri Lankan Rupee(LKR),No,No,No,No,4,166,4000,4
+5800718,Simply Strawberries By Jagro,191,Colombo,131| Vijaya Kumaratunge Mawathu| Havelock Town| Colombo 05,Juices| Desserts,Sri Lankan Rupee(LKR),No,No,No,No,2,146,1300,4.5
+6001980,Timboo Cafe,208,Ankara,Armada AVM| Kat -1| Eski?ehir Yolu| No 6| Yenimahalle| Ankara,Cafe,Turkish Lira(TL),No,No,No,No,3,134,70,4.2
+6000168,Hattena Hatay  Sofras?,208,Ankara,Balgat Mahallesi| Osmanl? Caddesi| No 41/A| ?ankaya| Ankara,Kebab,Turkish Lira(TL),No,No,No,No,3,124,70,4.6
+6000447,Masaba?? Kebap??s?,208,Ankara,Balgat Mahallesi| Ziyabey Caddesi| No 35| ?ankaya| Ankara,Kebab| Turkish Pizza,Turkish Lira(TL),No,No,No,No,3,212,100,4.2
+6004408,Turta Home Cafe,208,Ankara,Mutlukent Mahallesi| 1944. Cadde| 1948. Sokak| No 15| ?ankaya| Ankara,Cafe| Desserts,Turkish Lira(TL),No,No,No,No,2,126,35,4.3
+6003426,Liva,208,Ankara,?ukurambar Mahallesi| Muhsin Yaz?c?o?lu Caddesi| No 3| ?ankaya| Ankara,Patisserie| Coffee and Tea,Turkish Lira(TL),No,No,No,No,2,115,50,3.4
+6000549,Me?hur Tavac? Recep Usta,208,Ankara,G?zeltepe Mahallesi| Dikmen Vadisi| Ho?dere Giri?i| ?ankaya| Ankara,Kebab,Turkish Lira(TL),No,No,No,No,3,231,100,4.5
+6000871,?ukura?a Sofras?,208,Ankara,Emek Mahallesi| Bosna Hersek Caddesi| No 22/C| ?ankaya| Ankara,Kebab| Izgara,Turkish Lira(TL),No,No,No,No,3,296,60,4.4
+6004011,Gaga Manjero,208,Ankara,Gazi Osman Pa?a Mahallesi| Filistin Caddesi| No 21| ?ankaya| Ankara,World Cuisine,Turkish Lira(TL),No,No,No,No,3,95,80,4.9
+6000409,Cafemiz,208,Ankara,Gaziosmanpa?a Mahallesi| Arjantin Caddesi| No 19| ?ankaya| Ankara,World Cuisine| Mexican| Italian,Turkish Lira(TL),No,No,No,No,4,115,150,4.4
+6000019,Nusr-Et,208,Ankara,Gaziosmanpa?a Mahallesi| ?ehit ?mer Haluk Sipahio?lu Sokak| No 8| ?ankaya| Ankara,Steak,Turkish Lira(TL),No,No,No,No,4,97,400,4.1
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

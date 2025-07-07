@@ -1,0 +1,62 @@
+1)-Create three table city, customer and country
+
+--->    CREATE TABLE city(
+            id int PRIMARY KEY AUTO_INCREMENT NOT null,
+            city_name varchar(60) NOT null,
+            lat DECIMAL(8,6) NOT null,
+            `long` DECIMAL(8,6) NOT null,
+            country_id int
+        );
+
+
+        CREATE TABLE customer(
+	        id int PRIMARY KEY AUTO_INCREMENT,
+            customer_name varchar(50) NOT null,
+            city_id int,
+            customer_address text,
+            next_call_date date,
+            ts_inserted datetime
+        );
+
+
+        CREATE TABLE country(
+	        id INT PRIMARY KEY AUTO_INCREMENT,
+            country_name varchar(50) NOT null,
+            country_name_eng varchar(50) not null,
+            country_code varchar(5) NOT null
+        );
+
+Task 1: Join multiple tables using left join
+
+    Q.1)List all Countries and customers related to these countries
+
+    Ans:SELECT country.country_name,customer.customer_name FROM city 
+        JOIN country ON city.country_id=country.id
+        JOIN customer ON city.id = customer.city_id;
+
+    Q.2)For each country displaying its name in English, the name of the city customer is located in as well as the name of the customer.
+
+    Ans:SELECT customer.customer_name as Customer_Name ,city.city_name as City ,country.country_name_eng as Country FROM city 
+        JOIN country ON city.country_id=country.id
+        JOIN customer ON city.id = customer.city_id;
+
+    Q.3)Return even countries without related cities and customers.
+
+    Ans:SELECT customer.customer_name as Customer_Name ,city.city_name as City ,country.country_name_eng as Country FROM country
+        LEFT JOIN city ON country.id = city.country_id 
+        LEFT JOIN customer ON city.id=customer.city_id; 
+
+
+Task 2: Join multiple tables using both left and inner join
+
+    Q.1)Return the list of all countries that have pairs(exclude countries which are not referenced by any city). For such pairs return all customers.
+
+    Ans:SELECT country.country_name AS Country,city.city_name AS City,Customer.customer_name AS Customer FROM country
+        INNER JOIN city ON country.id = city.country_id
+        LEFT JOIN customer ON city.id = customer.city_id;
+
+    Q.2)Return even pairs of not having a single customer.
+
+    Ans:SELECT country.country_name AS Country,city.city_name AS City,Customer.customer_name AS Customer FROM country
+        INNER JOIN city ON country.id = city.country_id
+        LEFT JOIN customer ON city.id = customer.city_id;
